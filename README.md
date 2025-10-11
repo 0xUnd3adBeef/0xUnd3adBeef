@@ -31,8 +31,8 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 * **Hack The Box Academy**
 
-  * Top 5% user ranking | 290+ targets compromised
-  * Completed 30+ modules covering:
+  * Top 1% user ranking | 360+ targets compromised
+  * Completed 40+ modules covering:
 
     * Windows & Linux privilege escalation
     * Active Directory attacks, pivoting, tunneling
@@ -43,12 +43,13 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
   * eJPT (INE)
   * Google Cybersecurity Certificate
-  * HTB CPTS -> *in progress*
+  * HTB CPTS
+  * HTB CWES
 
 * **Labs**
 
   * Completed Dante Pro Lab (Offensive Security)
-  * Active in HTB Pro Labs and private CTF environments
+  * Active in HTB Labs and private CTF environments
 
 ---
 
@@ -57,7 +58,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 **Languages & Scripting**
 
 * Python & Bash
-* Planning to learn C & C++ for exploit dev and low-level tooling
+* Learning C for exploit dev and low-level tooling
 
 
 **Environments**
@@ -69,3 +70,4 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 ## Contact
 
 * GitHub: [@0xUnd3adBeef](https://github.com/0xUnd3adBeef)
+* Discord: @bigbrainpro.
