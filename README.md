@@ -7,9 +7,9 @@
 ## About
 
 I’m a security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
-My work blends **hands-on lab practice** with **custom tool development** — from post-exploitation frameworks to hardware hacking experiments.
+My work blends **hands-on lab practice** with **custom tool development** — from post-exploitation frameworks to hacking experiments.
 
-Currently expanding my skill set through advanced lab environments, capture-the-flag challenges, and real-world simulation exercises.
+Currently expanding my skill set through lab environments, capture-the-flag challenges, and real-world simulation exercises.
 
 ---
 
@@ -17,7 +17,7 @@ Currently expanding my skill set through advanced lab environments, capture-the-
 
 ### **Generic Drone Hacking**
 
-Reverse engineering a consumer drone: protocol sniffing, firmware analysis, app reverse-engineering.
+Reverse engineering a consumer drone: protocol sniffing, app reverse-engineering.
 [Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
 ### **SecurityNotes** — Offensive Security Knowledge Base
@@ -59,6 +59,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 * Python & Bash
 * Learning C for exploit dev and low-level tooling
+* Learning ASM for reverse engineering
 
 
 **Environments**
@@ -67,7 +68,4 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 ---
 
-## Contact
-
-* GitHub: [@0xUnd3adBeef](https://github.com/0xUnd3adBeef)
-* Discord: @bigbrainpro.
+If you need to reach out to me for anything (anything really) you can do it on this email : 
