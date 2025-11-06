@@ -7,7 +7,7 @@
 ## About
 
 I’m a security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
-My work blends **hands-on lab practice** with **custom tool development** — from post-exploitation frameworks to hacking experiments.
+My work tends to focus on hands on lab practice and experiments.
 
 Currently expanding my skill set through lab environments, capture-the-flag challenges, and real-world simulation exercises.
 
@@ -69,3 +69,5 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 ---
 
 If you need to reach out to me for anything (anything really) you can do it on discord : @mohacharr
+
+> Ty for reading, it means a lot <3
