@@ -1,6 +1,6 @@
 # **0xUnd3adBeef**
 
-*Offensive security enthusiast — Red teaming, pentesting, and tooling development*
+*Offensive security enthusiast — Red teaming, pentesting, and some development*
 
 ---
 
@@ -17,7 +17,7 @@ Currently expanding my skill set through lab environments, capture-the-flag chal
 
 ### **Generic Drone Hacking**
 
-Reverse engineering a consumer drone: protocol sniffing, app reverse-engineering.
+Reverse engineering a consumer drone: protocol sniffing, android/iOS app reverse-engineering (soon, still trying to figure out how).
 [Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
 ### **SecurityNotes** — Offensive Security Knowledge Base
@@ -37,7 +37,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
     * Windows & Linux privilege escalation
     * Active Directory attacks, pivoting, tunneling
     * Web exploitation (SQLi, command injection, XSS)
-    * Metasploit, fuzzing, and custom tooling
+    * Metasploit, fuzzing, and a lot of stuff
 
 * **Certifications**
 
@@ -49,7 +49,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 * **Labs**
 
   * Completed Dante Pro Lab (Offensive Security)
-  * Active in HTB Labs and private CTF environments
+  * Trying to be active in HTB Labs 
 
 ---
 
@@ -68,4 +68,4 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 ---
 
-If you need to reach out to me for anything (anything really) you can do it on this email : 
+If you need to reach out to me for anything (anything really) you can do it on discord : @mohacharr
