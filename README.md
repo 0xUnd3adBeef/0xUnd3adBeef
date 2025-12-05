@@ -6,7 +6,7 @@
 
 ## About
 
-I’m a security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
+I’m a 16 year old security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
 My work tends to focus on hands on lab practice and experiments.
 
 Currently expanding my skill set through lab environments, capture-the-flag challenges, and real-world simulation exercises.
@@ -15,12 +15,16 @@ Currently expanding my skill set through lab environments, capture-the-flag chal
 
 ## Selected Projects
 
+### **AdPeek** (A poor man's AD enumeration tool)
+
+AdPeek is a small Python tool for extracting useful information from Active Directory over LDAP. It focuses on fast enumeration and identifying misconfigured ACL paths without requiring a database or GUI (Poor man's bloodhound-ce).
+
 ### **Generic Drone Hacking**
 
 Reverse engineering a consumer drone: protocol sniffing, android/iOS app reverse-engineering (soon, still trying to figure out how).
 [Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
-### **SecurityNotes** — Offensive Security Knowledge Base
+### **Security Notes**
 
 Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 [Repo →](https://github.com/0xUnd3adBeef/SecurityNotes)
