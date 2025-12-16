@@ -52,7 +52,8 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 * **Labs**
 
-  * Completed Dante Pro Lab (Offensive Security)
+  * Completed Dante Pro Lab
+  * Completed Synacktiv fortress
   * Trying to be active in HTB Labs 
 
 ---
