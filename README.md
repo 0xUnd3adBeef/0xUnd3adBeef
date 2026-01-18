@@ -24,10 +24,10 @@ AdPeek is a small Python tool for extracting useful information from Active Dire
 Reverse engineering a consumer drone: protocol sniffing, android/iOS app reverse-engineering (soon, still trying to figure out how).
 [Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
-### **Security Notes**
+### Pychecksec
 
-Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
-[Repo →](https://github.com/0xUnd3adBeef/SecurityNotes)
+Small tool to check for library / import vulnerabilities such as shadowing that could lead to privilege escalation in python .
+[Repo →](https://github.com/hackersonsteroids/pychecksec)
 
 ---
 
