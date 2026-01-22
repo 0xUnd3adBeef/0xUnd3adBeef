@@ -6,7 +6,7 @@
 
 ## About
 
-I’m a 16 year old security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
+I’m a cyber security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
 My work tends to focus on hands on lab practice and experiments.
 
 Currently expanding my skill set through lab environments, capture-the-flag challenges, and real-world simulation exercises.
