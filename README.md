@@ -1,78 +1,50 @@
 # **0xUnd3adBeef**
 
-*Offensive security enthusiast — Red teaming, pentesting, and some development*
-
----
+*Offensive security enthusiast focused on red teaming, pentesting and a bit of dev.*
 
 ## About
 
-I’m a cyber security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
-My work tends to focus on hands on lab practice and experiments.
+Cybersecurity student interested in penetration testing, Active Directory attacks and web exploitation. Most of my learning comes from hands-on labs, CTFs and testing ideas in real environments.
 
-Currently expanding my skill set through lab environments, capture-the-flag challenges, and real-world simulation exercises.
+## Projects
 
----
+**AdPeek**
+Lightweight Python tool for fast AD enumeration and ACL path discovery.
+Repo: [https://github.com/0xUnd3adBeef/AdPeek](https://github.com/0xUnd3adBeef/AdPeek)
 
-## Selected Projects
+**Generic Drone Hacking**
+Reverse engineering a consumer drone and its mobile app.
+Repo: [https://github.com/0xUnd3adBeef/generic-drone-hacking](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
-### **AdPeek** (A poor man's AD enumeration tool)
+**Pychecksec**
+Small tool that finds Python library and import issues that can lead to privilege escalation.
+Repo: [https://github.com/hackersonsteroids/pychecksec](https://github.com/hackersonsteroids/pychecksec)
 
-AdPeek is a small Python tool for extracting useful information from Active Directory over LDAP. It focuses on fast enumeration and identifying misconfigured ACL paths without requiring a database or GUI (Poor man's bloodhound-ce).
-[Repo →](https://github.com/0xUnd3adBeef/AdPeek)
-### **Generic Drone Hacking**
+## Training
 
-Reverse engineering a consumer drone: protocol sniffing, android/iOS app reverse-engineering (soon, still trying to figure out how).
-[Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
+**Hack The Box**
+Top 1% user, 360+ targets completed.
+40+ modules including privilege escalation, AD attacks, pivoting, tunneling and common web exploits.
 
-### Pychecksec
+**Certs**
+eJPT
+Google Cybersecurity Certificate
+HTB CPTS
+HTB CWES
 
-Small tool to check for library / import vulnerabilities such as shadowing that could lead to privilege escalation in python .
-[Repo →](https://github.com/hackersonsteroids/pychecksec)
+**Labs**
+Dante Pro completed
+Synacktiv Fortress completed
+Active on HTB Labs
 
----
+## Tech Stack
 
-## Training & Achievements
-
-* **Hack The Box Academy**
-
-  * Top 1% user ranking | 360+ targets compromised
-  * Completed 40+ modules covering:
-
-    * Windows & Linux privilege escalation
-    * Active Directory attacks, pivoting, tunneling
-    * Web exploitation (SQLi, command injection, XSS)
-    * Metasploit, fuzzing, and a lot of stuff
-
-* **Certifications**
-
-  * eJPT (INE)
-  * Google Cybersecurity Certificate
-  * HTB CPTS
-  * HTB CWES
-
-* **Labs**
-
-  * Completed Dante Pro Lab
-  * Completed Synacktiv fortress
-  * Trying to be active in HTB Labs 
+Python, Bash
+Learning C and ASM
+Kali, Parrot, Windows 10
 
 ---
 
-## Technical Stack
+If you want to reach out, I’m on Discord: **@mohacharr**
 
-**Languages & Scripting**
-
-* Python & Bash
-* Learning C for exploit dev and low-level tooling
-* Learning ASM for reverse engineering
-
-
-**Environments**
-
-* Kali, Parrot, Windows 10
-
----
-
-If you need to reach out to me for anything (anything really) you can do it on discord : @mohacharr
-
-> Ty for reading, it means a lot <3
+> Thanks for reading <3
