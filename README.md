@@ -8,15 +8,15 @@ Cybersecurity student interested in penetration testing, Active Directory attack
 
 ## Projects
 
-**AdPeek**
+**AdPeek**\
 Lightweight Python tool for fast AD enumeration and ACL path discovery.
 Repo: [https://github.com/0xUnd3adBeef/AdPeek](https://github.com/0xUnd3adBeef/AdPeek)
 
-**Generic Drone Hacking**
+**Generic Drone Hacking**\
 Reverse engineering a consumer drone and its mobile app.
 Repo: [https://github.com/0xUnd3adBeef/generic-drone-hacking](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
-**Pychecksec**
+**Pychecksec**\
 Small tool that finds Python library and import issues that can lead to privilege escalation.
 Repo: [https://github.com/hackersonsteroids/pychecksec](https://github.com/hackersonsteroids/pychecksec)
 
@@ -26,22 +26,21 @@ Repo: [https://github.com/hackersonsteroids/pychecksec](https://github.com/hacke
 Top 1% HTB Academy, 360+ targets completed.
 40+ modules including privilege escalation, AD attacks, pivoting, tunneling and common web exploits.
 
-**Certs**
-eJPT
-Google Cybersecurity Certificate
-HTB CPTS
+**Certs**\
+eJPT\
+Google Cybersecurity Certificate\
+HTB CPTS\
 HTB CWES
 
-**Labs**
-Dante Pro completed
-Synacktiv Fortress completed
+**Labs**\
+Dante Pro completed\
+Synacktiv Fortress completed\
 Active on HTB Labs
 
 ## Tech Stack
 
-Python, Bash
+Python, Bash\
 Learning C and ASM
-Kali, Parrot, Windows 10
 
 ---
 
