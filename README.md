@@ -22,8 +22,8 @@ Repo: [https://github.com/hackersonsteroids/pychecksec](https://github.com/hacke
 
 ## Training
 
-**Hack The Box**
-Top 1% user, 360+ targets completed.
+**Hack The Box**\
+Top 1% HTB Academy, 360+ targets completed.
 40+ modules including privilege escalation, AD attacks, pivoting, tunneling and common web exploits.
 
 **Certs**
