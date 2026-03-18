@@ -1,49 +1,28 @@
-# **0xUnd3adBeef**
+# 0xUnd3adBeef
 
-*Offensive security enthusiast focused on red teaming, pentesting and a bit of dev.*
-
-## About
-
-Cybersecurity student interested in penetration testing, Active Directory attacks and web exploitation. Most of my learning comes from hands-on labs, CTFs and testing ideas in real environments.
+Offensive security, Active Directory, web exploitation, post-exploitation research. I focus on understanding attack chains at a technical level and building tooling around them.
 
 ## Projects
 
-**AdPeek**\
-Lightweight Python tool for fast AD enumeration and ACL path discovery.
-Repo: [https://github.com/0xUnd3adBeef/AdPeek](https://github.com/0xUnd3adBeef/AdPeek)
+**AdPeek**, AD enumeration and ACL attack path discovery. Built to surface exploitable paths fast without the noise of heavier frameworks.
+→ [github.com/0xUnd3adBeef/AdPeek](https://github.com/0xUnd3adBeef/AdPeek)
 
-**Generic Drone Hacking**\
-Reverse engineering a consumer drone and its mobile app.
-Repo: [https://github.com/0xUnd3adBeef/generic-drone-hacking](https://github.com/0xUnd3adBeef/generic-drone-hacking)
+**Pychecksec**, Identifies Python import and library hijacking vectors that lead to privilege escalation. Useful during internal assessments.
+→ [github.com/hackersonsteroids/pychecksec](https://github.com/hackersonsteroids/pychecksec)
 
-**Pychecksec**\
-Small tool that finds Python library and import issues that can lead to privilege escalation.
-Repo: [https://github.com/hackersonsteroids/pychecksec](https://github.com/hackersonsteroids/pychecksec)
+**Drone RE**, Full reverse engineering of a consumer drone: firmware extraction, protocol analysis, mobile app traffic interception.
+→ [github.com/0xUnd3adBeef/generic-drone-hacking](https://github.com/0xUnd3adBeef/generic-drone-hacking)
 
-## Training
+## Credentials
 
-**Hack The Box**\
-Top 1% HTB Academy, 360+ targets completed.
-40+ modules including privilege escalation, AD attacks, pivoting, tunneling and common web exploits.
+- HTB CPTS · HTB CWES · eJPT
+- Dante Pro lab · Synacktiv Fortress lab
+- HTB Academy Top 1%, 360+ machines, 40+ modules
 
-**Certs**\
-eJPT\
-Google Cybersecurity Certificate\
-HTB CPTS\
-HTB CWES
+## Stack
 
-**Labs**\
-Dante Pro completed\
-Synacktiv Fortress completed\
-Active on HTB Labs
-
-## Tech Stack
-
-Python, Bash\
-Learning C and ASM
+Python · Bash · C · ASM
 
 ---
 
-If you want to reach out, I’m on Discord: **@mohacharr**
-
-> Thanks for reading <3
+**@x3e7_** on Discord.
