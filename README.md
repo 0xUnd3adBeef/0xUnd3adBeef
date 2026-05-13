@@ -25,4 +25,4 @@ Python · Bash · C · ASM
 
 ---
 
-**@x3e7_** on Discord.
+**@0x3e7** on Discord.
